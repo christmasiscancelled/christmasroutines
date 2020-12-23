@@ -1,0 +1,26 @@
+{
+	"playlistName": "5 scenarios #3",
+	"scenarioList": [
+		{
+			"scenarioName": "Centering II 180 no strafes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air CELESTIAL",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "canTS",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Cycle Strafes Long",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}
