@@ -1,0 +1,38 @@
+{
+	"playlistName": "Aim Gods Hard",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "ww4t Varied",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Centering II 180 no strafes",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Invincible 4",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Invincible 5",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Thin Gauntlet V2 678 Thinner",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air no ufo no skybots small click norecoil",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pole Long Dodge Thin",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}
